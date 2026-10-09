@@ -3,3 +3,14 @@
     justify-content: center;
     align-items: center;
 }
+    .body{
+        margin: 0px;
+}
+    .titolo1{
+        font-size: 70px;
+       color: white;
+}
+    .didascalie{
+        font-size: 30px;
+        color: white;
+    }
